@@ -1,7 +1,9 @@
+!(Banner)[https://imagizer.imageshack.com/img923/1737/ywMul7.png]
 ### Hi! I'm Amappola ✨
+I'm a Junior Frontend Developer based in Colombia. I love solve problems usign code and create the best experiences for my users. 
 
 <!--
-**amappola7/amappola7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
