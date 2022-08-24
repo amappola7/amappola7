@@ -1,4 +1,4 @@
-![Banner](https://imagizer.imageshack.com/img923/1737/ywMul7.png)
+![Banner](https://imagizer.imageshack.com/img924/8238/zr2942.png)
 ### Hi! I'm Amappola ✨
 I'm a Junior Frontend Developer based in Colombia. I love solve problems usign code and create the best experiences for my users. 
 
