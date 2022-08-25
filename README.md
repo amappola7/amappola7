@@ -5,8 +5,10 @@ I am a Junior Frontend Developer. I am passionate about being part of the archit
 I enjoy implementing creative solutions through programming and creating products that impact the lives of my users. I never stop learning, I love discovering new technologies and new ways to be better at my job.
 
 ## ✨ Quick Facts
-🧪  I'm currently part of the Laboratoria Web Development Bootcamp  
-🌌  I also love designing and illustrating (I am working on improving those skills)  
+🧪  I'm currently part of the Laboratoria Web Development Bootcamp
+🌌  My goal is to work on projects that create a real impact in the world
+🌺  I also love designing and illustrating (I am working on improving those skills)  
+💖  Being disciplined and brave, thinking creatively, and always going the extra mile are my life values.
 💻  You can see my work at my [portfolio](https://amappola7.github.io/amappola-portfolio/) and my [C.V.](#) 
 
 ### 🤖 Stack
