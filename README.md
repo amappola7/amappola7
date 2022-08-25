@@ -16,8 +16,8 @@ I enjoy implementing creative solutions through programming and creating product
 [![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](https://www.linkedin.com/in/ana-maria-porras-pinto-30a602211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNUaVaFfOQrqXVyfYbETWDg%3D%3D)
 [![Twitter](https://imagizer.imageshack.com/img923/4545/5UVnEm.png)](https://twitter.com/amappola7)
 [![Instagram](https://imagizer.imageshack.com/img923/882/UQHGBG.png)](https://www.instagram.com/amappola7/)
-[![Email](https://imagizer.imageshack.com/img922/1189/RIawCw.png)](anam.porrasp@gmail.com)
 [![Linktree](https://imagizer.imageshack.com/img924/1442/ifCTwj.png)](https://linktr.ee/amappola7)
+[![Portfolio](https://imagizer.imageshack.com/img924/1808/G2cyZh.png)](https://amappola7.github.io/amappola-portfolio/)
 
 
 <!--
