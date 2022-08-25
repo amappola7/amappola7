@@ -17,6 +17,7 @@ I enjoy implementing creative solutions through programming and creating product
 ![JavaScript](https://imagizer.imageshack.com/img922/8339/woHqHK.png)
 ![Git](https://imagizer.imageshack.com/img924/4479/MTP7Nc.png)
 ![Jest](https://imagizer.imageshack.com/img923/6271/LR3TPv.png)
+<!--
 ![Firebase](https://imagizer.imageshack.com/img922/8863/zp06Au.png)
 ![Node.js](https://imagizer.imageshack.com/img924/9995/SbfK6s.png)
 ![React](https://imagizer.imageshack.com/img922/2437/whIQTj.png)
@@ -25,6 +26,7 @@ I enjoy implementing creative solutions through programming and creating product
 ![SQL](https://imagizer.imageshack.com/img923/9462/WOz8G9.png)
 ![MySQL](https://imagizer.imageshack.com/img922/4548/YIK9lN.png)
 ![MongoDB](https://imagizer.imageshack.com/img923/4842/YeKNo0.png)
+-->
 
 ### 📬 Contact me
 [![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](https://www.linkedin.com/in/ana-maria-porras-pinto-30a602211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNUaVaFfOQrqXVyfYbETWDg%3D%3D)
