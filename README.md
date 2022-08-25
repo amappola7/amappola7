@@ -2,7 +2,7 @@
 ### Hi! I'm Amappola ✨
 I'm a Junior Frontend Developer based in Colombia. I love solve problems usign code and create the best experiences for my users. 
 
-![HTML](https://imageshack.com/i/pnJG8FsRp)
+![HTML](https://imagizer.imageshack.com/img923/8532/JG8FsR.png)
 ![CSS](https://imagizer.imageshack.com/img924/6360/heqP2C.png)
 ![JavaScript](https://imagizer.imageshack.com/img922/8339/woHqHK.png)
 ![Git](https://imagizer.imageshack.com/img924/4479/MTP7Nc.png)
