@@ -12,6 +12,8 @@ I enjoy implementing creative solutions through programming and creating product
 ![Git](https://imagizer.imageshack.com/img924/4479/MTP7Nc.png)
 ![Jest](https://imagizer.imageshack.com/img923/6271/LR3TPv.png)
 
+### ✈️ Contact me
+
 
 <!--
 
