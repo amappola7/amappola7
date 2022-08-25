@@ -6,6 +6,8 @@ I enjoy implementing creative solutions through programming and creating product
 
 ## ✨ Quick Facts
 🧪 I'm currently part of the Laboratoria Web Development Bootcamp
+🌌 I love designing and illustrating (I am working on improving those skills)
+🤖 You can see my work at my [portfolio](https://amappola7.github.io/amappola-portfolio/) and my [C.V.](#) 
 
 ### 🤖 Stack
 ![HTML](https://imagizer.imageshack.com/img923/8532/JG8FsR.png)
