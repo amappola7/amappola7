@@ -12,7 +12,7 @@ I enjoy implementing creative solutions through programming and creating product
 ![Git](https://imagizer.imageshack.com/img924/4479/MTP7Nc.png)
 ![Jest](https://imagizer.imageshack.com/img923/6271/LR3TPv.png)
 
-### ✈️ Contact me
+### 📬 Contact me
 [![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](https://www.linkedin.com/in/ana-maria-porras-pinto-30a602211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNUaVaFfOQrqXVyfYbETWDg%3D%3D)
 [![Twitter](https://imagizer.imageshack.com/img923/4545/5UVnEm.png)](https://twitter.com/amappola7)
 [![Instagram](https://imagizer.imageshack.com/img923/882/UQHGBG.png)](https://www.instagram.com/amappola7/)
