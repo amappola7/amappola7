@@ -13,6 +13,11 @@ I enjoy implementing creative solutions through programming and creating product
 ![Jest](https://imagizer.imageshack.com/img923/6271/LR3TPv.png)
 
 ### ✈️ Contact me
+![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)
+![Twitter](https://imagizer.imageshack.com/img923/4545/5UVnEm.png)
+![Instagram](https://imagizer.imageshack.com/img923/882/UQHGBG.png)
+![Email](https://imagizer.imageshack.com/img922/1189/RIawCw.png)
+![Linktree](https://imagizer.imageshack.com/img924/1442/ifCTwj.png)
 
 
 <!--
