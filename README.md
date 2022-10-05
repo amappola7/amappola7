@@ -1,6 +1,6 @@
 ![Banner](https://imagizer.imageshack.com/img923/9783/lpIy2V.png)
 ## Hi! I'm Amappola 👩🏻‍💻
-I am a Junior Frontend Developer. I am passionate about being part of the architects of the future and thus, building the world we will live in tomorrow, one line of code at a time.
+I am a Frontend Developer. I am passionate about being part of the architects of the future and thus, building the world we will live in tomorrow, one line of code at a time.
 
 I love art and its power of transformation, and thanks to programming, I found the way of implement creative solutions in the creation of products that impact the lives of my users. I never stop learning, I love discovering new technologies and new ways to be better at my job.
 
