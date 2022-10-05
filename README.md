@@ -17,8 +17,8 @@ I love art and its power of transformation, and thanks to programming, I found t
 ![JavaScript](https://imagizer.imageshack.com/img922/8339/woHqHK.png)
 ![Git](https://imagizer.imageshack.com/img924/4479/MTP7Nc.png)
 ![Jest](https://imagizer.imageshack.com/img923/6271/LR3TPv.png)
-<!--
 ![Firebase](https://imagizer.imageshack.com/img922/8863/zp06Au.png)
+<!--
 ![Node.js](https://imagizer.imageshack.com/img924/9995/SbfK6s.png)
 ![React](https://imagizer.imageshack.com/img922/2437/whIQTj.png)
 ![Angular](https://imagizer.imageshack.com/img923/7229/ESuDTb.png)
