@@ -1,4 +1,4 @@
-![Banner](https://imagizer.imageshack.com/img923/9783/lpIy2V.png)
+![Banner](https://imagizer.imageshack.com/img923/4813/brDQPL.jpg)
 ## Hi! I'm Amappola 👩🏻‍💻
 I am a Frontend Developer. I am passionate about being part of the architects of the future and thus, building the world we will live in tomorrow, one line of code at a time.
 
