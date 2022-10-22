@@ -9,7 +9,7 @@ I love art and its power of transformation, and thanks to programming, I found t
 🌌  My goal is to work on projects that create a real impact in the world.  
 🌺  I also love designing and illustrating (I am working on improving those skills).  
 💖  Being disciplined and brave, thinking creatively, and always going the extra mile are my life values.  
-💻  You can see my work at my [portfolio](https://amappola7.github.io/amappola-portfolio/) and my [C.V.](https://drive.google.com/file/d/1_ruhJi-fBHDnbGLoJfyH0syB3Cw87WMz/view?usp=sharing) 
+💻  You can see my work at my [portfolio](https://amappola7.github.io/amappola-portfolio/) and my [C.V.](https://drive.google.com/file/d/1I_SoiOs7c6p9y4ooJ-PrZAY2hk4eTp4P/view?usp=sharing) 
 
 ### 🤖 Stack
 ![HTML](https://imagizer.imageshack.com/img923/8532/JG8FsR.png)
