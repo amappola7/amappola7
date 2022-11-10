@@ -1,5 +1,5 @@
 ![Banner](./assets/banner.png)
-[![Banner](./assets/linkedin.png)]http://www.linkedin.com/in/ana-maria-porras-pinto()
+[![Banner](./assets/linkedin.png)](http://www.linkedin.com/in/ana-maria-porras-pinto)
 [![Banner](./assets/portfolio.png)](https://amappola7.github.io/amappola-portfolio/)
 [![Banner](./assets/cv.png)](https://drive.google.com/file/d/1qaVduEnYXbclsQTOtB9TVyOachYX16Ys/view?usp=sharing)
 [![Banner](./assets/twitter.png)](https://twitter.com/amappola7)
