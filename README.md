@@ -5,4 +5,6 @@
 [![C.V.](./assets/cv.png)](https://drive.google.com/file/d/1qaVduEnYXbclsQTOtB9TVyOachYX16Ys/view?usp=sharing)
 [![Twitter](./assets/twitter.png)](https://twitter.com/amappola7)
 [![Linktree](./assets/linktree.png)](https://linktr.ee/amappola7)
+
+
 ![Projects](./assets/projectt.png)
