@@ -6,4 +6,3 @@
 [![Twitter](./assets/twitter.png)](https://twitter.com/amappola7)
 [![Linktree](./assets/linktree.png)](https://linktr.ee/amappola7)
 [![Projects](./assets/projectt.png)](https://github.com/amappola7/amappola-portfolio)
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
